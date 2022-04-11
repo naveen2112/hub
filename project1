@@ -3,9 +3,16 @@ this is my second server
 this is my 3rd server
 this is my 4th server
 this is my 5th server
+<<<<<<< HEAD
 this is my 6th server
 <<<<<<< HEAD
 this is my 7th server
 =======
 this is my conflict server
 >>>>>>> fb
+||||||| 8dc9bfe
+this is my 6th server
+this is my 7th server
+=======
+
+>>>>>>> 6f433ec8dd354a5fd2eaa54fd1c56b8fb2d308f8
